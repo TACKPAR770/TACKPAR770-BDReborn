@@ -75,6 +75,7 @@ update() {
 	git pull
 }
 
+
 if [ "$1" = "install" ]; then
 	print_logo
 	beyondteam
